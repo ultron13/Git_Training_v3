@@ -1,1 +1,2 @@
 sample File 1
+new file
